@@ -2,7 +2,7 @@
 
 # Oh My Zsh Daily Plugin
 
-Este es un plugin para Oh My Zsh que abre una URL de Google Meet para la daily meeting utilizando un perfil el perfil por defecto de Google Chrome.
+Este es un plugin para Oh My Zsh que abre una URL de Google Meet para la daily meeting utilizando el perfil por defecto de Google Chrome.
 
 ## Instalación
 
